@@ -1,3 +1,7 @@
+## Monsters Rolodex
+
+React page using hooks and fetching API as a first exercise of a React Course
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
